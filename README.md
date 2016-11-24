@@ -1,13 +1,3 @@
----
-layout: post
-title:  "用github + jekyll搭建自己的blog"
-date:   2016-04-10 23:14:00 +0800
-categories: jekyll update
-tags: [jekyll 前端] 
-excerpt: 本文主要记录一下自己在用jekyll在osX平台搭建个人博客开发环境、部署页面的过程以及遇到的一些坑.
----
-
-
 # JavsScript design pattern (ES6)
 
 [●工厂模式](#factory)
@@ -17,9 +7,11 @@ excerpt: 本文主要记录一下自己在用jekyll在osX平台搭建个人博�
 [●观察者模式](#observer)
 
 
+---
+
 <span id="factory"></span>
 
-##工厂模式
+## 工厂模式
 
 
 	// ES6 factory
